@@ -1,7 +1,7 @@
-# Proiect OOP in Python
+# Proiect programare orientata pe obiecte in Python
 
 ## Despre proiect
-In acest am folosit programarea orientata pe obiecte dezvoltand in python o clasa si o clasa mostenitoare pentru echipamente electrocasnice.
+In acest proiect am folosit programarea orientata pe obiecte dezvoltand in python o clasa si o clasa mostenitoare care primesc ca si parametri echipamente electrocasnice.
 
 ## Tehnologiile folosite
 * Python
